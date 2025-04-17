@@ -20,7 +20,7 @@ git clone https://github.com/aexy-boi/beatbox
 cd beatbox
 
 2. **Install the required Python libraries**
-
+'''python
 pip install -r requirements.txt
 
 3. **Run Beatbox**
