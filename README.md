@@ -19,7 +19,7 @@ ___
 ### 1. Clone the repository**
 ```bash
 git clone https://github.com/aexy-boi/beatbox
-cd beatbox
+cd beatbox```
 
 2. **Install the required Python libraries**
 '''python
