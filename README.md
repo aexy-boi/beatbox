@@ -2,6 +2,7 @@ README.md
 Beatbox - Terminal Music Tool
 
 **Beatbox** is a terminal-based music player made using Python, designed to stream and download songs directly from YouTube — right inside Termux!
+___
 
 ## Features
 
@@ -11,18 +12,18 @@ Beatbox - Terminal Music Tool
 - Like songs and create your own favorites list
 - Loop and shuffle mode
 - Smooth terminal UI with clean controls
+___
 
 ## How to Use
 
-1. **Clone the repository**
-
+###1. Clone the repository**
+'''bash
 git clone https://github.com/aexy-boi/beatbox
 cd beatbox
 
 2. **Install the required Python libraries**
 '''python
 pip install -r requirements.txt
-___
 
 3. **Run Beatbox**
 
