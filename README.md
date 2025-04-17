@@ -22,6 +22,7 @@ cd beatbox
 2. **Install the required Python libraries**
 '''python
 pip install -r requirements.txt
+___
 
 3. **Run Beatbox**
 
