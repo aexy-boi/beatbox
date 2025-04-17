@@ -16,20 +16,20 @@ ___
 
 ## How to Use
 
-### 1. Clone the repository**
+1. **Clone the repository**
 ```bash
 git clone https://github.com/aexy-boi/beatbox
 cd beatbox
 ```
 
 2. **Install the required Python libraries**
-'''python
+```bash
 pip install -r requirements.txt
-
+```
 3. **Run Beatbox**
-
+```bash
 python beatbox.py
-
+```
 4. **Follow on-screen options to play, download, like, or manage songs.**
 
 ## Requirements
