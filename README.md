@@ -17,7 +17,7 @@ ___
 ## How to Use
 
 ### 1. Clone the repository**
-'''bash
+```bash
 git clone https://github.com/aexy-boi/beatbox
 cd beatbox
 
